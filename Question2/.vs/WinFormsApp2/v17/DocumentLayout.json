@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB file\\Question2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AB31F-6905-4A81-9BBE-32A953AB6F9A}|WinFormsApp2\\WinFormsApp2.vbproj|d:\\vb file\\question2\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3D8AB31F-6905-4A81-9BBE-32A953AB6F9A}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8AB31F-6905-4A81-9BBE-32A953AB6F9A}|WinFormsApp2\\WinFormsApp2.vbproj|D:\\VB file\\Question2\\winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3D8AB31F-6905-4A81-9BBE-32A953AB6F9A}|WinFormsApp2\\WinFormsApp2.vbproj|solutionrelative:winformsapp2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\VB file\\Question2\\WinFormsApp2\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Question2\\WinFormsApp2\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp2\\Form1.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T00:46:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Question2\\WinFormsApp2\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Question2\\WinFormsApp2\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T00:46:43.92Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

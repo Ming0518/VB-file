@@ -1,0 +1,16 @@
+D:\VB file\Question4\Question4\bin\Debug\net6.0-windows\Question4.exe
+D:\VB file\Question4\Question4\bin\Debug\net6.0-windows\Question4.deps.json
+D:\VB file\Question4\Question4\bin\Debug\net6.0-windows\Question4.runtimeconfig.json
+D:\VB file\Question4\Question4\bin\Debug\net6.0-windows\Question4.dll
+D:\VB file\Question4\Question4\bin\Debug\net6.0-windows\Question4.pdb
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.Form1.resources
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.vbproj.GenerateResource.cache
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.AssemblyInfoInputs.cache
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.AssemblyInfo.vb
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.vbproj.CoreCompileInputs.cache
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.dll
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\refint\Question4.dll
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.pdb
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\Question4.genruntimeconfig.cache
+D:\VB file\Question4\Question4\obj\Debug\net6.0-windows\ref\Question4.dll

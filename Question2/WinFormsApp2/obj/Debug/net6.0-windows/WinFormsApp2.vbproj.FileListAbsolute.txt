@@ -1,0 +1,33 @@
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.AssemblyReference.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+D:\VB file\Question2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\VB file\Question2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\VB file\Question2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\VB file\Question2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\VB file\Question2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.vb
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\VB file\Question2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

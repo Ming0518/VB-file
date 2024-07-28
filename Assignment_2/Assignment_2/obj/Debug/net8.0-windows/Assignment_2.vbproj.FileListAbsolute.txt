@@ -1,0 +1,17 @@
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.vbproj.GenerateResource.cache
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.AssemblyInfoInputs.cache
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.AssemblyInfo.vb
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.vbproj.CoreCompileInputs.cache
+D:\VB file\Assignment_2\Assignment_2\bin\Debug\net8.0-windows\Assignment_2.exe
+D:\VB file\Assignment_2\Assignment_2\bin\Debug\net8.0-windows\Assignment_2.deps.json
+D:\VB file\Assignment_2\Assignment_2\bin\Debug\net8.0-windows\Assignment_2.runtimeconfig.json
+D:\VB file\Assignment_2\Assignment_2\bin\Debug\net8.0-windows\Assignment_2.dll
+D:\VB file\Assignment_2\Assignment_2\bin\Debug\net8.0-windows\Assignment_2.pdb
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.Form1.resources
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.dll
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\refint\Assignment_2.dll
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.pdb
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.genruntimeconfig.cache
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\ref\Assignment_2.dll
+D:\VB file\Assignment_2\Assignment_2\obj\Debug\net8.0-windows\Assignment_2.Form2.resources

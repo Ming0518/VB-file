@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|d:\\vb file\\car-rental-management-system-using-vb.net-main\\finalcarrentalsystem\\forms\\addadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\addadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|d:\\vb file\\car-rental-management-system-using-vb.net-main\\finalcarrentalsystem\\forms\\addadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\addadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|d:\\vb file\\car-rental-management-system-using-vb.net-main\\finalcarrentalsystem\\forms\\frmreturn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\frmreturn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|d:\\vb file\\car-rental-management-system-using-vb.net-main\\finalcarrentalsystem\\forms\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\customers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\customers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\addcar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\addcar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|d:\\vb file\\car-rental-management-system-using-vb.net-main\\finalcarrentalsystem\\forms\\customers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\customers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\addcar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\addcar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\finalcarrentalsystem\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customers.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Customers.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Customers.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Customers.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Customers.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAAEwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:24:16.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAdmin.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddAdmin.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\AddAdmin.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddAdmin.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\AddAdmin.vb",
+              "ViewState": "AQIAACsAAAAAAAAAAAAWwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T13:23:42.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddAdmin.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddAdmin.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\AddAdmin.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddAdmin.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\AddAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T13:23:38.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReturn.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\frmReturn.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\frmReturn.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\frmReturn.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\frmReturn.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T13:23:19.493Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListOfCars.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\ListOfCars.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\ListOfCars.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\LogIn.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\LogIn.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_Form.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Main_Form.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Main_Form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form3.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Form3.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form3.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T13:23:17.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customers.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Customers.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Customers.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Customers.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Customers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:24:07.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form2.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Form2.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form2.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogIn.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCar.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddCar.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\AddCar.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddCar.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\AddCar.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form1.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form1.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCar.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddCar.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\AddCar.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\AddCar.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\AddCar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:33:34.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListOfCars.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wCAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form1.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form1.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T13:02:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\VB file\\Car-Rental-Management-System-Using-Vb.net-main\\FinalCarRentalSystem\\Forms\\Form2.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Form2.vb",
+              "ToolTip": "D:\\4th sem\\VB\\Codes\\Car Rental System VB.NET\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\Form2.vb*",
+              "RelativeToolTip": "..\\..\\4th sem\\VB\\Codes\\Car Rental System VB.NET\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\Form2.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-08T13:02:38.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

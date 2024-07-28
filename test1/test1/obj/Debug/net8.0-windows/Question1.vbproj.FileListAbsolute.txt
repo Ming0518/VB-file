@@ -1,0 +1,16 @@
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\Question1.exe
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\Question1.deps.json
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\Question1.runtimeconfig.json
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\Question1.dll
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\Question1.pdb
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.Form1.resources
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.vbproj.GenerateResource.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.AssemblyInfoInputs.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.AssemblyInfo.vb
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.vbproj.CoreCompileInputs.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.dll
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\refint\Question1.dll
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.pdb
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\Question1.genruntimeconfig.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\ref\Question1.dll

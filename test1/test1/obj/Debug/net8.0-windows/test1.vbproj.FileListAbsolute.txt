@@ -1,0 +1,16 @@
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\test1.exe
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\test1.deps.json
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\test1.runtimeconfig.json
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\test1.dll
+D:\VB file\test1\test1\bin\Debug\net8.0-windows\test1.pdb
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.Form1.resources
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.vbproj.GenerateResource.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.AssemblyInfoInputs.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.AssemblyInfo.vb
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.vbproj.CoreCompileInputs.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.dll
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\refint\test1.dll
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.pdb
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\test1.genruntimeconfig.cache
+D:\VB file\test1\test1\obj\Debug\net8.0-windows\ref\test1.dll

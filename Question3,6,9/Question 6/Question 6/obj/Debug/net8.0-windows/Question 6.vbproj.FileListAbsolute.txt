@@ -1,0 +1,32 @@
+C:\Users\jialo\source\repos\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.exe
+C:\Users\jialo\source\repos\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.deps.json
+C:\Users\jialo\source\repos\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.runtimeconfig.json
+C:\Users\jialo\source\repos\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.dll
+C:\Users\jialo\source\repos\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.pdb
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question_6.Form1.resources
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.vbproj.GenerateResource.cache
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.AssemblyInfoInputs.cache
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.AssemblyInfo.vb
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.vbproj.CoreCompileInputs.cache
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.dll
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\refint\Question 6.dll
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.pdb
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.genruntimeconfig.cache
+C:\Users\jialo\source\repos\Question 6\Question 6\obj\Debug\net8.0-windows\ref\Question 6.dll
+D:\VB file\Question3,6,9\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.exe
+D:\VB file\Question3,6,9\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.deps.json
+D:\VB file\Question3,6,9\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.runtimeconfig.json
+D:\VB file\Question3,6,9\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.dll
+D:\VB file\Question3,6,9\Question 6\Question 6\bin\Debug\net8.0-windows\Question 6.pdb
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question_6.Form1.resources
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.vbproj.GenerateResource.cache
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.AssemblyInfoInputs.cache
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.AssemblyInfo.vb
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.vbproj.CoreCompileInputs.cache
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.dll
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\refint\Question 6.dll
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.pdb
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\Question 6.genruntimeconfig.cache
+D:\VB file\Question3,6,9\Question 6\Question 6\obj\Debug\net8.0-windows\ref\Question 6.dll

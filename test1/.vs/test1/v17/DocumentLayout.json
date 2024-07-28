@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB file\\test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38093379-FC6D-4A43-AE89-CC1E0B7A1F41}|Question7\\Question7.vbproj|D:\\VB file\\test1\\question7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{38093379-FC6D-4A43-AE89-CC1E0B7A1F41}|Question7\\Question7.vbproj|solutionrelative:question7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38093379-FC6D-4A43-AE89-CC1E0B7A1F41}|Question7\\Question7.vbproj|d:\\vb file\\test1\\question7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{38093379-FC6D-4A43-AE89-CC1E0B7A1F41}|Question7\\Question7.vbproj|solutionrelative:question7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38093379-FC6D-4A43-AE89-CC1E0B7A1F41}|Question7\\Question7.vbproj|D:\\VB file\\test1\\question7\\question7.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38093379-FC6D-4A43-AE89-CC1E0B7A1F41}|Question7\\Question7.vbproj|solutionrelative:question7\\question7.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A29001-AC7B-4682-8270-9E2BB95EE4E5}|Question4\\Question4.vbproj|D:\\VB file\\test1\\question4\\question4.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37A29001-AC7B-4682-8270-9E2BB95EE4E5}|Question4\\Question4.vbproj|solutionrelative:question4\\question4.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question4.vbproj",
+              "DocumentMoniker": "D:\\VB file\\test1\\Question4\\Question4.vbproj",
+              "RelativeDocumentMoniker": "Question4\\Question4.vbproj",
+              "ToolTip": "D:\\VB file\\test1\\Question4\\Question4.vbproj",
+              "RelativeToolTip": "Question4\\Question4.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-07-23T12:59:09.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question7.vbproj",
+              "DocumentMoniker": "D:\\VB file\\test1\\Question7\\Question7.vbproj",
+              "RelativeDocumentMoniker": "Question7\\Question7.vbproj",
+              "ToolTip": "D:\\VB file\\test1\\Question7\\Question7.vbproj",
+              "RelativeToolTip": "Question7\\Question7.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-07-23T12:59:02.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\VB file\\test1\\Question7\\Form1.vb",
+              "RelativeDocumentMoniker": "Question7\\Form1.vb",
+              "ToolTip": "D:\\VB file\\test1\\Question7\\Form1.vb",
+              "RelativeToolTip": "Question7\\Form1.vb",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwFsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T09:23:59.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\test1\\Question7\\Form1.vb",
+              "RelativeDocumentMoniker": "Question7\\Form1.vb",
+              "ToolTip": "D:\\VB file\\test1\\Question7\\Form1.vb [Design]",
+              "RelativeToolTip": "Question7\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T10:50:09.998Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

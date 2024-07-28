@@ -1,0 +1,17 @@
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\bin\Debug\net6.0-windows\Question 8.exe
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\bin\Debug\net6.0-windows\Question 8.deps.json
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\bin\Debug\net6.0-windows\Question 8.runtimeconfig.json
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\bin\Debug\net6.0-windows\Question 8.dll
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\bin\Debug\net6.0-windows\Question 8.pdb
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.vbproj.AssemblyReference.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question_8.Form1.resources
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.vbproj.GenerateResource.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.AssemblyInfoInputs.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.AssemblyInfo.vb
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.vbproj.CoreCompileInputs.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.dll
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\refint\Question 8.dll
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.pdb
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\Question 8.genruntimeconfig.cache
+C:\Users\hsbeh\Documents\Semester 6\Business of programming\Question 8\Question 8\obj\Debug\net6.0-windows\ref\Question 8.dll

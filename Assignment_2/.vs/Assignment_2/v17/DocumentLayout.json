@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB file\\Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B88206-0078-45DE-B1D8-CF333B2378E1}|Assignment_2\\Assignment_2.vbproj|d:\\vb file\\assignment_2\\assignment_2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F0B88206-0078-45DE-B1D8-CF333B2378E1}|Assignment_2\\Assignment_2.vbproj|solutionrelative:assignment_2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B88206-0078-45DE-B1D8-CF333B2378E1}|Assignment_2\\Assignment_2.vbproj|d:\\vb file\\assignment_2\\assignment_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F0B88206-0078-45DE-B1D8-CF333B2378E1}|Assignment_2\\Assignment_2.vbproj|solutionrelative:assignment_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B88206-0078-45DE-B1D8-CF333B2378E1}|Assignment_2\\Assignment_2.vbproj|d:\\vb file\\assignment_2\\assignment_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F0B88206-0078-45DE-B1D8-CF333B2378E1}|Assignment_2\\Assignment_2.vbproj|solutionrelative:assignment_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Assignment_2\\Assignment_2\\Form2.vb",
+              "RelativeDocumentMoniker": "Assignment_2\\Form2.vb",
+              "ToolTip": "D:\\VB file\\Assignment_2\\Assignment_2\\Form2.vb [Design]",
+              "RelativeToolTip": "Assignment_2\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T13:00:02.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\VB file\\Assignment_2\\Assignment_2\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment_2\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Assignment_2\\Assignment_2\\Form1.vb",
+              "RelativeToolTip": "Assignment_2\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T12:10:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Assignment_2\\Assignment_2\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment_2\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Assignment_2\\Assignment_2\\Form1.vb [Design]",
+              "RelativeToolTip": "Assignment_2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T11:38:39.499Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

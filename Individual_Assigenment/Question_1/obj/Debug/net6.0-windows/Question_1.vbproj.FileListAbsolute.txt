@@ -1,0 +1,16 @@
+D:\VB file\Individual_Assigenment\Question_1\bin\Debug\net6.0-windows\Question_1.exe
+D:\VB file\Individual_Assigenment\Question_1\bin\Debug\net6.0-windows\Question_1.deps.json
+D:\VB file\Individual_Assigenment\Question_1\bin\Debug\net6.0-windows\Question_1.runtimeconfig.json
+D:\VB file\Individual_Assigenment\Question_1\bin\Debug\net6.0-windows\Question_1.dll
+D:\VB file\Individual_Assigenment\Question_1\bin\Debug\net6.0-windows\Question_1.pdb
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.Form1.resources
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.vbproj.GenerateResource.cache
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.AssemblyInfoInputs.cache
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.AssemblyInfo.vb
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.vbproj.CoreCompileInputs.cache
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.dll
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\refint\Question_1.dll
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.pdb
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\Question_1.genruntimeconfig.cache
+D:\VB file\Individual_Assigenment\Question_1\obj\Debug\net6.0-windows\ref\Question_1.dll

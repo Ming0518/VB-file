@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB file\\Question3,6,9\\Question 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B691D6F-0722-4C29-B31C-80B47223F11A}|Question 6\\Question 6.vbproj|D:\\VB file\\Question3,6,9\\Question 6\\question 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9B691D6F-0722-4C29-B31C-80B47223F11A}|Question 6\\Question 6.vbproj|solutionrelative:question 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B691D6F-0722-4C29-B31C-80B47223F11A}|Question 6\\Question 6.vbproj|d:\\vb file\\question3,6,9\\question 6\\question 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9B691D6F-0722-4C29-B31C-80B47223F11A}|Question 6\\Question 6.vbproj|solutionrelative:question 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\VB file\\Question3,6,9\\Question 6\\Question 6\\Form1.vb",
+              "RelativeDocumentMoniker": "Question 6\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Question3,6,9\\Question 6\\Question 6\\Form1.vb",
+              "RelativeToolTip": "Question 6\\Form1.vb",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-24T14:31:11.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\Question3,6,9\\Question 6\\Question 6\\Form1.vb",
+              "RelativeDocumentMoniker": "Question 6\\Form1.vb",
+              "ToolTip": "D:\\VB file\\Question3,6,9\\Question 6\\Question 6\\Form1.vb [Design]",
+              "RelativeToolTip": "Question 6\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-24T14:16:16.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\VB file\car_rental\car_rental\bin\Debug\net6.0-windows\car_rental.exe
+D:\VB file\car_rental\car_rental\bin\Debug\net6.0-windows\car_rental.deps.json
+D:\VB file\car_rental\car_rental\bin\Debug\net6.0-windows\car_rental.runtimeconfig.json
+D:\VB file\car_rental\car_rental\bin\Debug\net6.0-windows\car_rental.dll
+D:\VB file\car_rental\car_rental\bin\Debug\net6.0-windows\car_rental.pdb
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.Form1.resources
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.Form2.resources
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.vbproj.GenerateResource.cache
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.AssemblyInfoInputs.cache
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.AssemblyInfo.vb
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.vbproj.CoreCompileInputs.cache
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.dll
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\refint\car_rental.dll
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.pdb
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\car_rental.genruntimeconfig.cache
+D:\VB file\car_rental\car_rental\obj\Debug\net6.0-windows\ref\car_rental.dll

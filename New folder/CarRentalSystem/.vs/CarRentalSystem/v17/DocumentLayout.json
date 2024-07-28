@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB file\\New folder\\CarRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|d:\\vb file\\new folder\\carrentalsystem\\carrentalsystem\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|solutionrelative:carrentalsystem\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|D:\\VB file\\New folder\\CarRentalSystem\\carrentalsystem\\edithistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|solutionrelative:carrentalsystem\\edithistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|D:\\VB file\\New folder\\CarRentalSystem\\carrentalsystem\\edithistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|solutionrelative:carrentalsystem\\edithistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|D:\\VB file\\New folder\\CarRentalSystem\\carrentalsystem\\addrental.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C68B47E-4E0A-463A-88E1-DC11A0CA0C28}|CarRentalSystem\\CarRentalSystem.vbproj|solutionrelative:carrentalsystem\\addrental.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditHistory.vb",
+              "DocumentMoniker": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\EditHistory.vb",
+              "RelativeDocumentMoniker": "CarRentalSystem\\EditHistory.vb",
+              "ToolTip": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\EditHistory.vb",
+              "RelativeToolTip": "CarRentalSystem\\EditHistory.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T14:07:37.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\History.vb",
+              "RelativeDocumentMoniker": "CarRentalSystem\\History.vb",
+              "ToolTip": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\History.vb [Design]",
+              "RelativeToolTip": "CarRentalSystem\\History.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T10:37:17.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditHistory.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\EditHistory.vb",
+              "RelativeDocumentMoniker": "CarRentalSystem\\EditHistory.vb",
+              "ToolTip": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\EditHistory.vb [Design]",
+              "RelativeToolTip": "CarRentalSystem\\EditHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T10:37:42.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRental.vb [Design]",
+              "DocumentMoniker": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\AddRental.vb",
+              "RelativeDocumentMoniker": "CarRentalSystem\\AddRental.vb",
+              "ToolTip": "D:\\VB file\\New folder\\CarRentalSystem\\CarRentalSystem\\AddRental.vb [Design]",
+              "RelativeToolTip": "CarRentalSystem\\AddRental.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T10:46:39.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
